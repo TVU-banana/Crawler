@@ -1,6 +1,6 @@
 # Crawler
 ### Who are we
-Here is the AI group of the Innovation Lab, and the PaddlePaddle Developer Group of Taiyuan University of Technology.
+Here is the AI group of the Innovation Lab, and the PaddlePaddle Developer Group of TYUT.
 ### Who am i
 I'm the leader DuKang, this repository is used to store my crawler practice code.   
 ### The role of this repo
